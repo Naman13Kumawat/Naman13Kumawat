@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on E-commerce website **Plantae**
 
-- 🌱 I’m currently learning **React, Firebase**
+- 🌱 I’m currently learning **JWT, **React, Firebase**
 
 - 💬 Ask me about **HTML-CSS, JavaScript, REACT, MongoDB, Mongoose**
 
