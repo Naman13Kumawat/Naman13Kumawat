@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Naman</h1>
-<h3 align="center">A passionate frontend & backend developer.</h3>
+<h3 align="center">A passionate full-stack developer.</h3>
 
-- 🔭 I’m currently working on MERN website.
+- 🌱 I’m currently learning **Spring**
 
-- 🌱 I’m currently learning **JWT, React, Firebase**
-
-- 💬 Ask me about **HTML-CSS, JavaScript, REACT, MongoDB, Mongoose**
+- 💬 Ask me about **HTML-CSS, JavaScript, TypeScript, React, MongoDB, Angular, Node, Express**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
